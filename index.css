@@ -19,10 +19,11 @@ body, html {
     background-size: cover; /* Ensure the background image covers the container */
 
 }
-.logo{
+.name{
     display: flex;
     flex-direction: row;
     margin-left: 40px;
+    width: 500px;
 }
 
 .container img {
